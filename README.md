@@ -1,1 +1,1 @@
-# TF-DatabricksWorkspace
+# TF-AzureDatabricksWorkspace
